@@ -71,3 +71,6 @@
 
 ## Super Resolution
 *Awesome-Super-Resolution* https://github.com/ChaofWang/Awesome-Super-Resolution
+
+## Denoising
+*Reproducible-image-denoising* https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art
