@@ -37,6 +37,8 @@
 *Awesome-meta-learning* https://github.com/dragen1860/awesome-meta-learning
 
 ## Graph Neural Network
+*Must-read-papers-on-GNN* https://github.com/thunlp/GNNPapers
+
 *Awesome-Graph-Neural-Networks* https://github.com/nnzhan/Awesome-Graph-Neural-Networks
 
 *Awesome-graph-classification* https://github.com/benedekrozemberczki/awesome-graph-classification
