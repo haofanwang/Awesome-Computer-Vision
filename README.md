@@ -2,6 +2,8 @@
 ## Video Recognition
 *Awesome-action-recognition* https://github.com/jinwchoi/awesome-action-recognition
 
+*Recent-paper-list* https://zhuanlan.zhihu.com/p/76073340
+
 ## Autonomous Driving
 *Awesome-autonomous-driving* https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving
 
@@ -74,3 +76,7 @@
 
 ## Denoising
 *Reproducible-image-denoising* https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art
+
+## Interpretability
+*Recent-paper-list* https://zhuanlan.zhihu.com/p/74542589
+
