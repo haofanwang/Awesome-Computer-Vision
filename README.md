@@ -80,3 +80,5 @@
 ## Interpretability
 *Recent-paper-list* https://zhuanlan.zhihu.com/p/74542589
 
+## Anomaly Detection
+*Anomaly-detection-resources* https://github.com/yzhao062/anomaly-detection-resources
