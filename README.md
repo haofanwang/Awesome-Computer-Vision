@@ -2,6 +2,8 @@
 ## Video Recognition
 *Awesome-action-recognition* https://github.com/jinwchoi/awesome-action-recognition
 
+*Materials-temporal-action-detection* https://github.com/Rheelt/Materials-Temporal-Action-Detection
+
 *Recent-paper-list* https://zhuanlan.zhihu.com/p/76073340
 
 ## Autonomous Driving
