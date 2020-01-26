@@ -4,6 +4,7 @@
 
 *Awesome-adversarial-deep-learning* https://github.com/nebula-beta/awesome-adversarial-deep-learning
 
+*Graph Adversarial Learning Literature* https://github.com/YingtongDou/graph-adversarial-learning-literature
 
 ## Video Recognition
 *Awesome-action-recognition* https://github.com/jinwchoi/awesome-action-recognition
