@@ -6,6 +6,8 @@
 
 *Graph Adversarial Learning Literature* https://github.com/YingtongDou/graph-adversarial-learning-literature
 
+*Robust ML* https://github.com/P2333/Papers-of-Robust-ML
+
 ## Video Recognition
 *Awesome-action-recognition* https://github.com/jinwchoi/awesome-action-recognition
 
