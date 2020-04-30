@@ -13,7 +13,7 @@
 
 *Materials-temporal-action-detection* https://github.com/Rheelt/Materials-Temporal-Action-Detection
 
-*Recent-paper-list* https://zhuanlan.zhihu.com/p/76073340
+*Awesome-Temporal-Action-Localization* https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization
 
 ## Autonomous Driving
 *Awesome-autonomous-driving* https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving
