@@ -8,6 +8,8 @@
 
 *Robust ML* https://github.com/P2333/Papers-of-Robust-ML
 
+*Awesome-graph-attack-papers* https://github.com/ChandlerBang/awesome-graph-attack-papers
+
 ## Video Recognition
 *Awesome-action-recognition* https://github.com/jinwchoi/awesome-action-recognition
 
