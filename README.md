@@ -1,4 +1,18 @@
 # Awesome-Computer-Vision
+## Graph Neural Network
+*Must-read-papers-on-GNN* https://github.com/thunlp/GNNPapers
+
+*Awesome-Graph-Neural-Networks* https://github.com/nnzhan/Awesome-Graph-Neural-Networks
+
+*Awesome-graph-classification* https://github.com/benedekrozemberczki/awesome-graph-classification
+
+*graph-based-deep-learning-literature* https://github.com/naganandy/graph-based-deep-learning-literature
+
+## Interpretability
+*Recent-paper-list* https://zhuanlan.zhihu.com/p/74542589
+
+*awesome_deep_learning_interpretability* https://github.com/oneTaken/awesome_deep_learning_interpretability
+
 ## Adversarial Attack
 *A Complete List of All (arXiv) Adversarial Example Papers* https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
 
@@ -51,13 +65,6 @@
 
 *Awesome-meta-learning* https://github.com/dragen1860/awesome-meta-learning
 
-## Graph Neural Network
-*Must-read-papers-on-GNN* https://github.com/thunlp/GNNPapers
-
-*Awesome-Graph-Neural-Networks* https://github.com/nnzhan/Awesome-Graph-Neural-Networks
-
-*Awesome-graph-classification* https://github.com/benedekrozemberczki/awesome-graph-classification
-
 ## Generative Adversarial Network
 *Awesome-gan* https://github.com/nightrome/really-awesome-gan
 
@@ -89,11 +96,6 @@
 
 ## Denoising
 *Reproducible-image-denoising* https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art
-
-## Interpretability
-*Recent-paper-list* https://zhuanlan.zhihu.com/p/74542589
-
-*awesome_deep_learning_interpretability* https://github.com/oneTaken/awesome_deep_learning_interpretability
 
 ## Anomaly Detection
 *Anomaly-detection-resources* https://github.com/yzhao062/anomaly-detection-resources
