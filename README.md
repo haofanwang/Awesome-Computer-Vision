@@ -8,6 +8,13 @@
 
 *graph-based-deep-learning-literature* https://github.com/naganandy/graph-based-deep-learning-literature
 
+## Video Recognition
+*Awesome-action-recognition* https://github.com/jinwchoi/awesome-action-recognition
+
+*Materials-temporal-action-detection* https://github.com/Rheelt/Materials-Temporal-Action-Detection
+
+*Awesome-Temporal-Action-Localization* https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization
+
 ## Interpretability
 *Recent-paper-list* https://zhuanlan.zhihu.com/p/74542589
 
@@ -23,13 +30,6 @@
 *Robust ML* https://github.com/P2333/Papers-of-Robust-ML
 
 *Awesome-graph-attack-papers* https://github.com/ChandlerBang/awesome-graph-attack-papers
-
-## Video Recognition
-*Awesome-action-recognition* https://github.com/jinwchoi/awesome-action-recognition
-
-*Materials-temporal-action-detection* https://github.com/Rheelt/Materials-Temporal-Action-Detection
-
-*Awesome-Temporal-Action-Localization* https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization
 
 ## Autonomous Driving
 *Awesome-autonomous-driving* https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving
