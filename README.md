@@ -8,6 +8,8 @@
 
 *graph-based-deep-learning-literature* https://github.com/naganandy/graph-based-deep-learning-literature
 
+*graph-adversarial-learning-literature* https://github.com/safe-graph/graph-adversarial-learning-literature
+
 ## Video Recognition
 *Awesome-action-recognition* https://github.com/jinwchoi/awesome-action-recognition
 
