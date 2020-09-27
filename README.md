@@ -1,13 +1,11 @@
 # Awesome-Computer-Vision
 
 ## Personal recipe (current interests)
-*Awesome Vision-Language Navigation* https://github.com/daqingliu/awesome-vln
+*Vision-Language Navigation*: [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln)
 
-*Awesome Trajectory Prediction* https://github.com/xuehaouwa/Awesome-Trajectory-Prediction
+*Trajectory Prediction*: [Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction), [Interaction Aware Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 
-*Awesome Interaction Aware Trajectory Prediction* https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
-
-*Awesome Interpretability* https://github.com/oneTaken/awesome_deep_learning_interpretability
+*Interpretability*: [Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability)
 
 
 ## Graph Neural Network
