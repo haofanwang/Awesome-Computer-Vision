@@ -13,105 +13,38 @@
 
 *[6] Graph Neural Network*: [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn)
 
-## Graph Neural Network
-*Must-read-papers-on-GNN* https://github.com/thunlp/GNNPapers
+## Awesome Computer Vision
 
-*Awesome-Graph-Neural-Networks* https://github.com/nnzhan/Awesome-Graph-Neural-Networks
+*[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers), [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks), [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature)
 
-*Awesome-graph-classification* https://github.com/benedekrozemberczki/awesome-graph-classification
+*[2] Video Analysis*: [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition), [Temporal Action Detection](https://github.com/Rheelt/Materials-Temporal-Action-Detection), [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization)
 
-*graph-based-deep-learning-literature* https://github.com/naganandy/graph-based-deep-learning-literature
+*[3] Adversarial Attack*: [Adversarial Attack](https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html), [Adversarial Learning]( https://github.com/nebula-beta/awesome-adversarial-deep-learning), [Robust ML](https://github.com/P2333/Papers-of-Robust-ML), [Graph Attack](https://github.com/ChandlerBang/awesome-graph-attack-papers)
 
-*graph-adversarial-learning-literature* https://github.com/safe-graph/graph-adversarial-learning-literature
+*[4] 3D Vision*: [Point Cloud](https://github.com/Yochengliu/awesome-point-cloud-analysis), [3D Reconstruction](https://github.com/openMVG/awesome_3DReconstruction_list)
 
-## Video Recognition
-*Awesome-action-recognition* https://github.com/jinwchoi/awesome-action-recognition
+*[5] AutoML*: [AutoML](https://github.com/hibayesian/awesome-automl-papers), [Network Pruning](https://github.com/he-y/Awesome-Pruning), [Network Compression](https://github.com/sun254/awesome-model-compression-and-acceleration), [NAS](https://github.com/D-X-Y/Awesome-NAS)
 
-*Materials-temporal-action-detection* https://github.com/Rheelt/Materials-Temporal-Action-Detection
+*[6] Reinforcement Learning*: [RL](https://github.com/aikorea/awesome-rl), [RL](https://github.com/jgvictores/awesome-deep-reinforcement-learning), [Multiagent RL](https://github.com/chuangyc/awesome-multiagent-learning)
 
-*Awesome-Temporal-Action-Localization* https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization
+*[7] Transfer Learning*: [Transfer Learning](https://github.com/artix41/awesome-transfer-learning), [Zero Shot](https://github.com/chichilicious/awesome-zero-shot-learning), [Meta Learning](https://github.com/dragen1860/awesome-meta-learning)
 
-## Interpretability
-*Recent-paper-list* https://zhuanlan.zhihu.com/p/74542589
+*[8] GAN*: [GAN](https://github.com/nightrome/really-awesome-gan), [GAN Applications](https://github.com/nashory/gans-awesome-applications)
 
-*awesome_deep_learning_interpretability* https://github.com/oneTaken/awesome_deep_learning_interpretability
+*[9] Object Detection*: [Detection](https://github.com/hoya012/deep_learning_object_detection), [Detection](https://github.com/amusi/awesome-object-detection)
 
-## Adversarial Attack
-*A Complete List of All (arXiv) Adversarial Example Papers* https://nicholas.carlini.com/writing/2019/all-adversarial-example-papers.html
+*[10] Object Tracking*: [Multiple Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-listn), [Tracking](https://github.com/foolwood/benchmark_results)
 
-*Awesome-adversarial-deep-learning* https://github.com/nebula-beta/awesome-adversarial-deep-learning
+*[11] Pose Estimation*: [Human Pose](https://github.com/cbsudux/awesome-human-pose-estimation), [Object Pose]( https://github.com/nkalavak/awesome-object-pose)
 
-*Graph Adversarial Learning Literature* https://github.com/YingtongDou/graph-adversarial-learning-literature
+*[12] Segmentation*: [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 
-*Robust ML* https://github.com/P2333/Papers-of-Robust-ML
+*[13] Classification*: [GAN](https://github.com/weiaicunzai/awesome-image-classification)
 
-*Awesome-graph-attack-papers* https://github.com/ChandlerBang/awesome-graph-attack-papers
+*[14] Super Resolution*: [Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)
 
-## Autonomous Driving
-*Awesome-autonomous-driving* https://github.com/autonomousdrivingkr/Awesome-Autonomous-Driving
+*[15] Denoising*: [Image Denoising](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
 
-*Autonomous-vehicle* https://github.com/DeepTecher/AutonomousVehiclePaper
+*[16] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources)
 
-*Awesome-point-cloud-analysis* https://github.com/Yochengliu/awesome-point-cloud-analysis
 
-*Awesome-3D-reconstruction* https://github.com/openMVG/awesome_3DReconstruction_list
-
-## AutoML
-*Awesome-network-pruning* https://github.com/he-y/Awesome-Pruning
-
-*Awesome-compression-and-acceleration* https://github.com/sun254/awesome-model-compression-and-acceleration
-
-*Awesome-network-architecture-search* https://github.com/D-X-Y/Awesome-NAS
-
-*Literature-on-neural-archtecture-search* https://www.ml4aad.org/automl/literature-on-neural-architecture-search/
-
-*Awesome-automl* https://github.com/hibayesian/awesome-automl-papers
-
-## Reinforcement Learning
-*Awesome-reinforcement-learning* https://github.com/aikorea/awesome-rl
-
-*Awesome-multiagent-learning* https://github.com/chuangyc/awesome-multiagent-learning
-
-*Awesome-deep-reinforcement-learning* https://github.com/jgvictores/awesome-deep-reinforcement-learning
-
-## Transfer Learning
-*Awesome-zero-shot-learning* https://github.com/chichilicious/awesome-zero-shot-learning
-
-*Awesome-transfer-learning* https://github.com/artix41/awesome-transfer-learning
-
-*Awesome-meta-learning* https://github.com/dragen1860/awesome-meta-learning
-
-## Generative Adversarial Network
-*Awesome-gan* https://github.com/nightrome/really-awesome-gan
-
-*Awesome-gans-applications* https://github.com/nashory/gans-awesome-applications
-
-## Object Detection
-*Object-detection* https://github.com/hoya012/deep_learning_object_detection
-
-*Awesome-object-detection* https://github.com/amusi/awesome-object-detection
-
-## Object Tracking
-*Multi-object-tracking* https://github.com/SpyderXu/multi-object-tracking-paper-list
-
-*Object-tracking-benchmarks* https://github.com/foolwood/benchmark_results
-
-## Pose Estimation
-*Awesome-human-pose-estimation* https://github.com/cbsudux/awesome-human-pose-estimation
-
-*Awesome-object-pose* https://github.com/nkalavak/awesome-object-pose
-
-## Segmentation
-*Awesome-semantic-segmentation* https://github.com/mrgloom/awesome-semantic-segmentation
-
-## Classification
-*Awesome-image-classification* https://github.com/weiaicunzai/awesome-image-classification
-
-## Super Resolution
-*Awesome-Super-Resolution* https://github.com/ChaofWang/Awesome-Super-Resolution
-
-## Denoising
-*Reproducible-image-denoising* https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art
-
-## Anomaly Detection
-*Anomaly-detection-resources* https://github.com/yzhao062/anomaly-detection-resources
