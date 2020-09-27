@@ -1,4 +1,15 @@
 # Awesome-Computer-Vision
+
+## Personal recipe (current interests)
+*Awesome Vision-Language Navigation* https://github.com/daqingliu/awesome-vln
+
+*Awesome Trajectory Prediction* https://github.com/xuehaouwa/Awesome-Trajectory-Prediction
+
+*Awesome Interaction Aware Trajectory Prediction* https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction
+
+*Awesome Interpretability* https://github.com/oneTaken/awesome_deep_learning_interpretability
+
+
 ## Graph Neural Network
 *Must-read-papers-on-GNN* https://github.com/thunlp/GNNPapers
 
