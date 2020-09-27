@@ -1,12 +1,17 @@
 # Awesome-Computer-Vision
 
-## Personal recipe (current interests)
-*Vision-Language Navigation*: [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln)
+## Personal Recipe
+*Vision-Language Navigation*: [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln), [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 
 *Trajectory Prediction*: [Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction), [Interaction Aware Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 
 *Interpretability*: [Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability)
 
+*Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization), [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [Person ReID](https://github.com/bismex/Awesome-person-re-identification), [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid), [Vehicle ReID](https://github.com/bismex/Awesome-vehicle-re-identification)
+
+*Pose Estimation*: [Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation), [Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+
+*Graph Neural Network*: [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn)
 
 ## Graph Neural Network
 *Must-read-papers-on-GNN* https://github.com/thunlp/GNNPapers
