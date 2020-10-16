@@ -13,6 +13,9 @@
 
 *[6] Graph Neural Network*: [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn)
 
+*[7] Visual Reasoning*: [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering), [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
+
+
 ## Awesome Computer Vision
 
 *[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers), [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks), [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature)
