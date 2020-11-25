@@ -15,6 +15,7 @@
 
 *[7] Visual Reasoning*: [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering), [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
 
+*[8] OCR*: [OCR](https://github.com/ChanChiChoi/awesome-ocr)
 
 ## Awesome Computer Vision
 
