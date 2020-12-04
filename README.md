@@ -1,21 +1,18 @@
 # Awesome-Computer-Vision
 
 ## Personal Recipe
-*[1] Vision-Language Navigation*: [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln), [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
+*[1] OCR*: [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md), [awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr)
 
-*[2] Trajectory Prediction*: [Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction), [Interaction Aware Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
+*[2] Visual Reasoning*: [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering), [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
 
 *[3] Interpretability*: [Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability)
 
-*[4] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization), [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [Person ReID](https://github.com/bismex/Awesome-person-re-identification), [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid)
+*[4] Trajectory Prediction*: [Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction), [Interaction Aware Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 
-*[5] Pose Estimation*: [Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation), [Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
+*[5] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization), [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [Person ReID](https://github.com/bismex/Awesome-person-re-identification), [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid)
 
 *[6] Graph Neural Network*: [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn)
 
-*[7] Visual Reasoning*: [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering), [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
-
-*[8] OCR*: [OCR](https://github.com/ChanChiChoi/awesome-ocr)
 
 ## Awesome Computer Vision
 
@@ -39,16 +36,18 @@
 
 *[10] Object Tracking*: [Multiple Object Tracking](https://github.com/SpyderXu/multi-object-tracking-paper-listn), [Tracking](https://github.com/foolwood/benchmark_results)
 
-*[11] Pose Estimation*: [Human Pose](https://github.com/cbsudux/awesome-human-pose-estimation), [Object Pose]( https://github.com/nkalavak/awesome-object-pose)
+*[11] Pose Estimation*: [Human Pose Estimation](https://github.com/wangzheallen/awesome-human-pose-estimation), [Hand Pose Estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation)
 
 *[12] Segmentation*: [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 
 *[13] Classification*: [GAN](https://github.com/weiaicunzai/awesome-image-classification)
 
-*[14] Super Resolution*: [Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)
+*[14] Vision-Language Navigation*: [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln), [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 
-*[15] Denoising*: [Image Denoising](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
+*[15] Super Resolution*: [Super Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution)
 
-*[16] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources)
+*[16] Denoising*: [Image Denoising](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
+
+*[17] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources)
 
 
