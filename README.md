@@ -13,7 +13,7 @@
 
 *[6] Graph Neural Network*: [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn)
 
-*[7] Multimodal*: [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml), [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research), [Cross-modal_Retrieval_Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation), 
+*[7] Multimodal*: [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml), [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research), [Cross-modal_Retrieval_Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
 
 *[8] Visual Transformer*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
