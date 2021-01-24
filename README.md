@@ -1,27 +1,18 @@
 # Awesome-Computer-Vision
 
 ## Personal Recipe
-*[1] OCR*: [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md), [awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr)
+*[1] Visual Transformer*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
-*[2] Visual Reasoning*: [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering), [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
+*[2] Multimodal*: [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml), [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research), [Cross-modal_Retrieval_Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation), [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering), [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
 
-*[3] Interpretability*: [Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability)
+*[3] OCR*: [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md), [awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr)
 
-*[4] Trajectory Prediction*: [Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction), [Interaction Aware Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
-
-*[5] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization), [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [Person ReID](https://github.com/bismex/Awesome-person-re-identification), [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid)
-
-*[6] Graph Neural Network*: [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn)
-
-*[7] Multimodal*: [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml), [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research), [Cross-modal_Retrieval_Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation)
-
-*[8] Visual Transformer*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
-
+*[4] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization), [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [Person ReID](https://github.com/bismex/Awesome-person-re-identification), [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid)
 
 
 ## Awesome Computer Vision
 
-*[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers), [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks), [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature)
+*[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers), [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks), [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature), [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn)
 
 *[2] Video Analysis*: [Action Recognition](https://github.com/jinwchoi/awesome-action-recognition), [Temporal Action Detection](https://github.com/Rheelt/Materials-Temporal-Action-Detection), [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization)
 
@@ -54,5 +45,9 @@
 *[16] Denoising*: [Image Denoising](https://github.com/wenbihan/reproducible-image-denoising-state-of-the-art)
 
 *[17] Anomaly Detection*: [Anomaly Detection](https://github.com/yzhao062/anomaly-detection-resources)
+
+*[18] Interpretability*: [Interpretability](https://github.com/oneTaken/awesome_deep_learning_interpretability)
+
+*[19] Trajectory Prediction*: [Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction), [Interaction Aware Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 
 
