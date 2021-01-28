@@ -9,6 +9,8 @@
 
 *[4] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization), [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [Person ReID](https://github.com/bismex/Awesome-person-re-identification), [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid)
 
+*[5] Contrast Learning*: [PyContrast](https://github.com/HobbitLong/PyContrast)
+
 
 ## Awesome Computer Vision
 
