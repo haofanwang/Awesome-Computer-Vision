@@ -3,7 +3,7 @@
 ## Personal Recipe
 *[1] Visual Transformer*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
-*[2] Multimodal*: [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml), [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research), [Cross-modal_Retrieval_Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation), [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering), [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
+*[2] Multimodal*: [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers), [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml), [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research), [Cross-modal_Retrieval_Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation), [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering), [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
 
 *[3] OCR*: [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md), [awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr)
 
