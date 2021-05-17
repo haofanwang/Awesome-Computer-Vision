@@ -52,4 +52,6 @@
 
 *[19] Trajectory Prediction*: [Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction), [Interaction Aware Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 
+*[20] Crowd Counting*: [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
+
 
