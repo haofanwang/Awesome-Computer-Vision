@@ -11,6 +11,8 @@
 
 *[5] Contrast Learning*: [PyContrast](https://github.com/HobbitLong/PyContrast), [contrastive_learning_codes](https://github.com/leerumor/contrastive_learning_codes)
 
+*[6] Pretraining*: [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models), [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers), [awesome-programming-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers)
+
 
 ## Awesome Computer Vision
 
