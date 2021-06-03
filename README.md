@@ -5,8 +5,6 @@
 
 *[2] Multimodal*: [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers), [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml), [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research), [Cross-modal_Retrieval_Tutorial](https://github.com/Paranioar/Cross-modal_Retrieval_Tutorial), [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation), [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering), [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
 
-*[3] OCR*: [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md), [awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr)
-
 *[4] Video Analysis*: [Temporal Action Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization), [Mulitple Object Tracking](https://github.com/luanshiyinyang/awesome-multiple-object-tracking), [Person ReID](https://github.com/bismex/Awesome-person-re-identification), [Video Person ReID](https://github.com/AsuradaYuci/awesome_video_person_reid)
 
 *[5] Contrast Learning*: [PyContrast](https://github.com/HobbitLong/PyContrast), [contrastive_learning_codes](https://github.com/leerumor/contrastive_learning_codes)
@@ -54,6 +52,6 @@
 
 *[19] Trajectory Prediction*: [Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction), [Interaction Aware Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 
-*[20] Crowd Counting*: [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
+*[20] OCR*: [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md), [awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr)
 
-
+*[21] Crowd Counting*: [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
