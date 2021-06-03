@@ -1,7 +1,7 @@
 # Awesome-Computer-Vision
 
 ## Personal Recipe
-*[1] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
+*[1] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer), [BERT](https://github.com/tomohideshibata/BERT-related-papers)
 
 *[2] MLP is all you need*: [awesome-mlp-transformer](https://github.com/fawazsammani/awesome-mlp-transformer)
 
