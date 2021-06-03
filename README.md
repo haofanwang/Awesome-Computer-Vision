@@ -34,7 +34,7 @@
 
 *[12] Segmentation*: [Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 
-*[13] Classification*: [GAN](https://github.com/weiaicunzai/awesome-image-classification)
+*[13] Classification*: [Image Classification](https://github.com/weiaicunzai/awesome-image-classification)
 
 *[14] Vision-Language Navigation*: [Vision-Language Navigation](https://github.com/daqingliu/awesome-vln), [Self-Supervised Learning](https://github.com/jason718/awesome-self-supervised-learning)
 
