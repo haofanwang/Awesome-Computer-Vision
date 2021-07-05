@@ -3,9 +3,11 @@
 ## Personal Recipe
 *[1] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer), [BERT](https://github.com/tomohideshibata/BERT-related-papers)
 
-*[2] MLP is all you need*: [awesome-mlp-transformer](https://github.com/haofanwang/awesome-mlp-papers/)
+*[2] MLP is all you need*: [awesome-mlp-papers](https://github.com/haofanwang/awesome-mlp-papers/)
 
 *[3] Vision Language Pre-training*: [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models), [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers), [awesome-programming-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers), [PyContrast](https://github.com/HobbitLong/PyContrast), [contrastive_learning_codes](https://github.com/leerumor/contrastive_learning_codes)
+
+*[4] Video Inpainting*: [Awesome-Image-Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
 
 
 ## Awesome Computer Vision
