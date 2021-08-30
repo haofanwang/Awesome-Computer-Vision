@@ -1,7 +1,7 @@
 # Awesome-Computer-Vision [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Personal Recipe
-*[1] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer), [BERT](https://github.com/tomohideshibata/BERT-related-papers)
+*[1] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer), [BERT](https://github.com/tomohideshibata/BERT-related-papers), [Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision)
 
 *[2] MLP is all you need*: [awesome-mlp-papers](https://github.com/haofanwang/awesome-mlp-papers/)
 
