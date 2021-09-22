@@ -7,7 +7,7 @@
 
 *[3] Vision Language Pre-training*: [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models), [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers), [awesome-programming-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers), [PyContrast](https://github.com/HobbitLong/PyContrast), [contrastive_learning_codes](https://github.com/leerumor/contrastive_learning_codes)
 
-*[4] Video Inpainting*: [Awesome-Image-Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
+*[4] Prompt*: [PromptPapers](https://github.com/thunlp/PromptPapers)
 
 
 ## Awesome Computer Vision
@@ -59,3 +59,5 @@
 *[23] Visual Reasoning*: [Visual Reasoning](https://github.com/jokieleung/awesome-visual-question-answering)
 
 *[24] Visual Grounding*: [Visual Grounding](https://github.com/TheShadow29/awesome-grounding)
+
+*[25] Video Inpainting*: [Awesome-Image-Inpainting](https://github.com/1900zyh/Awesome-Image-Inpainting)
