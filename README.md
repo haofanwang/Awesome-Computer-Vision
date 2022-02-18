@@ -9,6 +9,7 @@
 
 *[4] Prompt*: [PromptPapers](https://github.com/thunlp/PromptPapers)
 
+*[5] MIM*: [Masked Image Modeling](https://github.com/ucasligang/awesome-MIM)
 
 ## Awesome Computer Vision
 
