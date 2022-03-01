@@ -11,6 +11,9 @@
 
 *[5] MIM*: [Masked Image Modeling](https://github.com/ucasligang/awesome-MIM)
 
+*[6] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+
+
 ## Awesome Computer Vision
 
 *[1] Graph Neural Network*: [GNN](https://github.com/thunlp/GNNPapers), [GNN](https://github.com/nnzhan/Awesome-Graph-Neural-Networks), [Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification), [Adversarial GNN](https://github.com/safe-graph/graph-adversarial-learning-literature), [Deep GNN](https://github.com/mengliu1998/awesome-deep-gnn)
