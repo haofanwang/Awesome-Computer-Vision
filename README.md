@@ -13,6 +13,8 @@
 
 *[6] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
 
+*[7] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on)
+
 
 ## Awesome Computer Vision
 
