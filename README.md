@@ -1,19 +1,12 @@
 # Awesome-Computer-Vision [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Personal Recipe
-*[1] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer), [BERT](https://github.com/tomohideshibata/BERT-related-papers), [Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision)
 
-*[2] MLP is all you need*: [awesome-mlp-papers](https://github.com/haofanwang/awesome-mlp-papers/)
+*[1] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on)
 
-*[3] Vision Language Pre-training*: [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models), [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers), [awesome-programming-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers), [PyContrast](https://github.com/HobbitLong/PyContrast), [contrastive_learning_codes](https://github.com/leerumor/contrastive_learning_codes)
+*[2] Talking Face*: [awesome_talking_face_generation](https://github.com/YunjinPark/awesome_talking_face_generation)
 
-*[4] Prompt*: [PromptPapers](https://github.com/thunlp/PromptPapers)
-
-*[5] MIM*: [Masked Image Modeling](https://github.com/ucasligang/awesome-MIM)
-
-*[6] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
-
-*[7] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on)
+*[3] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
 
 
 ## Awesome Computer Vision
@@ -57,6 +50,16 @@
 *[19] Trajectory Prediction*: [Trajectory-Prediction](https://github.com/xuehaouwa/Awesome-Trajectory-Prediction), [Interaction Aware Trajectory Prediction](https://github.com/jiachenli94/Awesome-Interaction-aware-Trajectory-Prediction)
 
 *[20] OCR*: [image-text-localization-recognition](https://github.com/whitelok/image-text-localization-recognition/blob/master/README.zh-cn.md), [awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr)
+
+*[21] Transformer is all you need*: [Awesome Visual-Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer), [BERT](https://github.com/tomohideshibata/BERT-related-papers), [Transformer-in-Vision](https://github.com/DirtyHarryLYL/Transformer-in-Vision)
+
+*[22] MLP is all you need*: [awesome-mlp-papers](https://github.com/haofanwang/awesome-mlp-papers/)
+
+*[23] Vision Language Pre-training*: [awesome-pretrained-chinese-nlp-models](https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models), [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers), [awesome-programming-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-programming-language-pretraining-papers), [PyContrast](https://github.com/HobbitLong/PyContrast), [contrastive_learning_codes](https://github.com/leerumor/contrastive_learning_codes)
+
+*[24] Prompt*: [PromptPapers](https://github.com/thunlp/PromptPapers)
+
+*[25] MIM*: [Masked Image Modeling](https://github.com/ucasligang/awesome-MIM)
 
 *[21] Crowd Counting*: [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting)
 
