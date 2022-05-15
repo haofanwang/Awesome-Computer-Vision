@@ -8,6 +8,8 @@
 
 *[3] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
 
+*[4] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)
+
 
 ## Awesome Computer Vision
 
