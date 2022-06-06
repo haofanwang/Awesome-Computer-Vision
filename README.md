@@ -6,9 +6,11 @@
 
 *[2] Talking Face*: [awesome_talking_face_generation](https://github.com/YunjinPark/awesome_talking_face_generation)
 
-*[3] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+*[3] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 
-*[4] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)
+*[4] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+
+*[5] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)
 
 
 ## Awesome Computer Vision
