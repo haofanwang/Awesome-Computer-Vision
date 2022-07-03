@@ -2,15 +2,17 @@
 
 ## Personal Recipe
 
-*[1] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on)
+*[1] 3D-Human-Reconstruction*: [awesome-3d-human-reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction)
 
-*[2] Talking Face*: [awesome_talking_face_generation](https://github.com/YunjinPark/awesome_talking_face_generation)
+*[2] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on)
 
-*[3] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+*[3] Talking Face*: [awesome_talking_face_generation](https://github.com/YunjinPark/awesome_talking_face_generation)
 
-*[4] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+*[4] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 
-*[5] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)
+*[5] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+
+*[6] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)
 
 
 ## Awesome Computer Vision
