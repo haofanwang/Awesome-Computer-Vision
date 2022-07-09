@@ -2,17 +2,19 @@
 
 ## Personal Recipe
 
-*[1] 3D-Human-Reconstruction*: [awesome-3d-human-reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction)
+*[1] Motion Prediction*: [awesome-3d-human-motion-prediction](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md)
 
-*[2] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on)
+*[2] 3D-Human-Reconstruction*: [awesome-3d-human-reconstruction](https://github.com/rlczddl/awesome-3d-human-reconstruction)
 
-*[3] Talking Face*: [awesome_talking_face_generation](https://github.com/YunjinPark/awesome_talking_face_generation)
+*[3] Virtual-Try-On*: [A Curated List of Awesome Virtual Try-on](https://github.com/minar09/awesome-virtual-try-on)
 
-*[4] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+*[4] Talking Face*: [awesome_talking_face_generation](https://github.com/YunjinPark/awesome_talking_face_generation)
 
-*[5] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+*[5] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 
-*[6] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)
+*[6] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+
+*[7] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)
 
 
 ## Awesome Computer Vision
