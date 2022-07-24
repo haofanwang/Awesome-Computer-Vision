@@ -1,6 +1,6 @@
 # Awesome-Computer-Vision [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Personal Recipe
+## Hot Topics
 
 *[1] Motion Prediction*: [awesome-3d-human-motion-prediction](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md)
 
@@ -10,11 +10,13 @@
 
 *[4] Talking Face*: [awesome_talking_face_generation](https://github.com/YunjinPark/awesome_talking_face_generation)
 
-*[5] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+*[5] Sketch Generation*: [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis)
 
-*[6] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+*[6] Diffusion*: [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 
-*[7] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)
+*[7] NeRF*: [awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+
+*[8] CLIP*: [Awesome-CLIP](https://github.com/yzhuoning/Awesome-CLIP)
 
 
 ## Awesome Computer Vision
