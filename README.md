@@ -1,5 +1,8 @@
 # Awesome-Computer-Vision [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Highlighted Topics
+*[1] Conditional Content Generation*: [awesome-conditional-content-generation](https://github.com/haofanwang/awesome-conditional-content-generation/)
+
 ## Hot Topics
 
 *[1] Motion Prediction*: [awesome-3d-human-motion-prediction](https://github.com/aras62/vision-based-prediction/blob/master/papers/motion_papers.md)
